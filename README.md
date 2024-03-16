@@ -1,9 +1,9 @@
 # Data Preprocessing with NLTK
 
 
-\`\`\`bash
+```bash
 pip install nltk
-\`\`\`
+```
 
 
 This project demonstrates how to preprocess text data using NLTK (Natural Language Toolkit) in Python. This preprocessing includes:
