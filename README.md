@@ -25,3 +25,5 @@ This project demonstrates how to preprocess text data using NLTK (Natural Langua
 11. **Lemmatization**
 
 12. **Removal of Tags**
+
+13. **Removal of URLs**
