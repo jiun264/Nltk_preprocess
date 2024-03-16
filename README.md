@@ -1,5 +1,7 @@
 # Data Preprocessing with NLTK
 
+pip install nltk
+
 This project demonstrates how to preprocess text data using NLTK (Natural Language Toolkit) in Python. This preprocessing includes:
 
 1. **Lowercasing Text Data**: Convert all text to lowercase to ensure uniformity.
